@@ -11,7 +11,7 @@ The dataset is shared under the [CC BY-NC-SA 4.0 license](https://creativecommon
 
 ## Run Instructions
 
-You must have python 3.11.5 version and jupyter kernel for this version installed, aswell as the following packages:
+Make sure you have Python installed, along with a Jupyter kernel for your Python version. You will also need the following packages:
 
 - **Scikit-Learn:** Utilized for constructing, training, optimizing, and evaluating machine learning models.
 - **Pandas, NumPy, Itertools, Collections:** Used for data manipulation, preprocessing, and feature engineering tasks.
@@ -19,6 +19,8 @@ You must have python 3.11.5 version and jupyter kernel for this version installe
 - **Requests:** to request cities names from OpenWeather API.
 - **SciPy (stats):** Utilized for statistical analysis in exploratory data analysis (EDA).
 - **Matplotlib, Seaborn:** Used for visualizing data and understanding trends in EDA.
+
+Additionally, download the dataset from the link provided above and place it in the same directory as this project.
 
 ## Further Information
 
